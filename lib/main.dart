@@ -25,7 +25,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String yazi ="Hi there my name is Zark,but everybody calls me Zerk";
+  String yazi ="Hi there my name is Bünyamin,but everybody calls me Bünysmin";
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
